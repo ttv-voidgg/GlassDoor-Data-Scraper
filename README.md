@@ -2,7 +2,6 @@
 title: Glassdoor Data Scraper
 description: A simple JavaScript tool to scrape job listing data from a web page by selecting structured HTML elements with job IDs. It extracts job title, company, location, salary (with normalization), and description — then saves the data to a local `.json` file.
 date: 2025-04-15
-image:  
 category: Development
 site: 
 author:
